@@ -2,8 +2,12 @@
 
 Код написан с ипользованием: 
 
-- React
-- Typescript
-- Redux Toolkit2
+- JavaScript
+- фреймворк ReactJS
+- типизация с Typescript
+- библиотека Redux Toolkit2
 - RTK Query
+- асинхронное программирование (async/await)
 - стили были стилизованы при помощи библиотеки Tailwind
+- Websocket, Ajax, REST
+- автоматическая проверка стиля кода инструментами Stylelint и ESLin.
